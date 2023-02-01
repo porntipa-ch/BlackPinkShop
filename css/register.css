@@ -1,0 +1,12 @@
+body{
+    background-image: url('https://wallpapercave.com/wp/wp7493685.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.container-sm{
+    margin-top: 40px;
+    border-radius: 10px;
+    padding: 50px;
+    padding-bottom: 10px;
+    width: 30%;
+}

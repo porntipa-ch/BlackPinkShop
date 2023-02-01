@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-size: 20px;
+}
+label,legend{
+    color: white;
+}
+fieldset{
+    border-color: #eaabbc;
+}
+form{
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+button,input{
+    font-size: 16px;
+}
